@@ -57,7 +57,8 @@ The goal of the project is to demonstrate practical skills in Unity development,
 
 ### Main Menu Interface
 
-Screenshot 2026-05-05 093510.png
+<img width="1532" height="804" alt="Screenshot 2026-05-05 093510" src="https://github.com/user-attachments/assets/5a76e40e-119f-42c7-ab16-dfe42524cb23" />
+
 ---
 
 ## Tech Stack
