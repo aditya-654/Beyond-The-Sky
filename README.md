@@ -41,19 +41,23 @@ The goal of the project is to demonstrate practical skills in Unity development,
 
 ### Solar System Visualization
 
-![Solar System](./screenshots/solar_system.png)
+<img width="1919" height="901" alt="Screenshot 2026-05-05 110947" src="https://github.com/user-attachments/assets/78ecacbe-4a61-47f7-ab74-cc7d4c23c6c8" />
+
+
+### Spaceship Exterior
+
+<img width="1732" height="791" alt="Screenshot 2026-05-05 112232" src="https://github.com/user-attachments/assets/1050d82d-6823-4e1b-9ed5-6ae46d8bdaf1" />
+
 
 ### Spaceship Interior View
 
-![Spaceship Interior](./screenshots/spaceship_view.png)
+<img width="1141" height="676" alt="Screenshot 2026-05-05 093940" src="https://github.com/user-attachments/assets/e74b6be1-8636-4a82-a7f1-b30c5698d2cc" />
+
 
 ### Mars Environment Exploration
 
-![Mars Environment](./screenshots/mars_scene.png)
+<img width="1723" height="802" alt="Screenshot 2026-05-05 111525" src="https://github.com/user-attachments/assets/ad1ac364-2218-42a7-ad1c-a59f7ca05e69" />
 
-### Terrain Exploration Scene
-
-![Terrain Exploration](./screenshots/terrain.png)
 
 ### Main Menu Interface
 
@@ -91,10 +95,8 @@ git clone https://github.com/aditya-654/Beyond-The-Sky.git
 Demonstration video:
 
 ```
-https://your-demo-link
+https://youtu.be/g033g41hudU
 ```
-
----
 
 ## Key Learnings
 
@@ -118,6 +120,8 @@ https://your-demo-link
 
 Aditya Ahuja
 GitHub: https://github.com/aditya-654
-LinkedIn: (add your profile link)
+LinkedIn: www.linkedin.com/in/aditya-ahuja-8b164a329
+
+
 
 ---
