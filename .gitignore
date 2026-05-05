@@ -1,0 +1,11 @@
+Library/
+Temp/
+Logs/
+obj/
+UserSettings/
+bts build/
+Build/
+Builds/
+*.exe
+*.dll
+*.zip

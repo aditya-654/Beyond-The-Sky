@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\New folder\\New folder (13)\\Beyond the sky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\New folder (13)\\Beyond the sky\\Library\\PackageCache\\com.meta.xr.sdk.core@74.0.0\\Scripts\\OpenXRFeatures\\MetaXRFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.meta.xr.sdk.core@74.0.0\\Scripts\\OpenXRFeatures\\MetaXRFeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5CC4E0-015C-9850-7D41-75DB8282BFC0}|Assembly-CSharp.csproj|c:\\new folder\\new folder (13)\\beyond the sky\\assets\\bts2\\timelinestarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5CC4E0-015C-9850-7D41-75DB8282BFC0}|Assembly-CSharp.csproj|solutionrelative:assets\\bts2\\timelinestarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5CC4E0-015C-9850-7D41-75DB8282BFC0}|Assembly-CSharp.csproj|C:\\New folder\\New folder (13)\\Beyond the sky\\assets\\bts2\\scenechangetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5CC4E0-015C-9850-7D41-75DB8282BFC0}|Assembly-CSharp.csproj|solutionrelative:assets\\bts2\\scenechangetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\New folder\\New folder (13)\\Beyond the sky\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5CC4E0-015C-9850-7D41-75DB8282BFC0}|Assembly-CSharp.csproj|C:\\New folder\\New folder (13)\\Beyond the sky\\assets\\new scripts\\videotriggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5CC4E0-015C-9850-7D41-75DB8282BFC0}|Assembly-CSharp.csproj|solutionrelative:assets\\new scripts\\videotriggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MetaXRFeature.cs",
+              "DocumentMoniker": "C:\\New folder\\New folder (13)\\Beyond the sky\\Library\\PackageCache\\com.meta.xr.sdk.core@74.0.0\\Scripts\\OpenXRFeatures\\MetaXRFeature.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.meta.xr.sdk.core@74.0.0\\Scripts\\OpenXRFeatures\\MetaXRFeature.cs",
+              "ToolTip": "C:\\New folder\\New folder (13)\\Beyond the sky\\Library\\PackageCache\\com.meta.xr.sdk.core@74.0.0\\Scripts\\OpenXRFeatures\\MetaXRFeature.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.meta.xr.sdk.core@74.0.0\\Scripts\\OpenXRFeatures\\MetaXRFeature.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAASwK0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:36:23.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimelineStarter.cs",
+              "DocumentMoniker": "C:\\New folder\\New folder (13)\\Beyond the sky\\Assets\\bts2\\TimelineStarter.cs",
+              "RelativeDocumentMoniker": "Assets\\bts2\\TimelineStarter.cs",
+              "ToolTip": "C:\\New folder\\New folder (13)\\Beyond the sky\\Assets\\bts2\\TimelineStarter.cs",
+              "RelativeToolTip": "Assets\\bts2\\TimelineStarter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:33:26.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneChangeTrigger.cs",
+              "DocumentMoniker": "C:\\New folder\\New folder (13)\\Beyond the sky\\Assets\\bts2\\SceneChangeTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\bts2\\SceneChangeTrigger.cs",
+              "ToolTip": "C:\\New folder\\New folder (13)\\Beyond the sky\\Assets\\bts2\\SceneChangeTrigger.cs",
+              "RelativeToolTip": "Assets\\bts2\\SceneChangeTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:35:10.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TerrainLit.shader",
+              "DocumentMoniker": "C:\\New folder\\New folder (13)\\Beyond the sky\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
+              "ToolTip": "C:\\New folder\\New folder (13)\\Beyond the sky\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Shaders\\Terrain\\TerrainLit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-03-26T18:48:24.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideoTriggerManager.cs",
+              "DocumentMoniker": "C:\\New folder\\New folder (13)\\Beyond the sky\\Assets\\new scripts\\VideoTriggerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\new scripts\\VideoTriggerManager.cs",
+              "ToolTip": "C:\\New folder\\New folder (13)\\Beyond the sky\\Assets\\new scripts\\VideoTriggerManager.cs",
+              "RelativeToolTip": "Assets\\new scripts\\VideoTriggerManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T18:48:22.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
