@@ -45,6 +45,9 @@ The goal of the project is to demonstrate practical skills in Unity development,
 
 ### Solar System Visualization
 <img width="1734" height="784" alt="Screenshot 2026-05-05 110631" src="https://github.com/user-attachments/assets/44594ca2-2ee1-47a3-ade3-7c273e84cb7a" />
+
+
+
 <img width="1723" height="783" alt="Screenshot 2026-05-05 110519" src="https://github.com/user-attachments/assets/9f65e1eb-4fcc-4f48-bcfd-ef369b62d2df" />
 
 
@@ -56,13 +59,20 @@ The goal of the project is to demonstrate practical skills in Unity development,
 ### Spaceship Interior View
 
 <img width="1141" height="676" alt="Screenshot 2026-05-05 093940" src="https://github.com/user-attachments/assets/e74b6be1-8636-4a82-a7f1-b30c5698d2cc" />
+
+
+
 <img width="1918" height="842" alt="Screenshot 2026-05-05 094336" src="https://github.com/user-attachments/assets/f0dd1ab6-c7d4-4dee-a77e-9301cd3da15a" />
 
 
 ### Mars Environment Exploration
 
 <img width="1723" height="802" alt="Screenshot 2026-05-05 111525" src="https://github.com/user-attachments/assets/ad1ac364-2218-42a7-ad1c-a59f7ca05e69" />
+
+
 <img width="1666" height="794" alt="Screenshot 2026-05-05 111342" src="https://github.com/user-attachments/assets/fef1c403-f2eb-4cf1-90f7-8e291515ab90" />
+
+
 <img width="1679" height="797" alt="Screenshot 2026-05-05 111431" src="https://github.com/user-attachments/assets/2c3eb85e-9018-4735-bbf5-1c97c62e7b24" />
 
 
